@@ -1,5 +1,5 @@
 
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 html,
 body {
@@ -104,7 +104,7 @@ body {
 }
 
 .text {
-    color: #8b6a60;
+    color: antiquewhite;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -113,5 +113,10 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 80px;
+}
+p{
+    font-size: 90px;
+    margin-top: 0;
+    font-weight:bold;
 }
